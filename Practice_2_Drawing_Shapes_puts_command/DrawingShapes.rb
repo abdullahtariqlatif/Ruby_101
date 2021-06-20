@@ -1,0 +1,18 @@
+puts "     /|"
+puts "    / |"
+puts "   /  |"
+puts "  /   |"
+puts " /    |"
+puts "/_____|"
+
+print "puts command adds a new line after printing something while print does not."
+
+puts"___________________"
+puts"___________________"
+puts"|                 |"
+puts"|                 |"
+puts"|                 |"
+puts"|                 |"
+puts"|                 |"
+puts"___________________"
+puts"___________________"
